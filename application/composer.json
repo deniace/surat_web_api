@@ -1,0 +1,12 @@
+{
+    "name": "smi/tamu",
+    "authors": [
+        {
+            "name": "Deni Supriyatna",
+            "email": "denisupriyatna01@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}

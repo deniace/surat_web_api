@@ -1,0 +1,72 @@
+email	: admin@mail.com 
+password	: admin
+jabatan	: 1 admin
+rt	: 01
+rw	: 01
+
+email	: deni@mail.com 
+password	: 123
+jabatan	: 4 warga
+rt	: 01
+rw	: 01
+
+email	: warga1@mail.com 
+password	: warga1
+jabatan	: 4 warga
+rt	: 01
+rw	: 01
+
+email	: susi@mail.com 
+password	: susi
+jabatan	: warga
+rt	: 02
+rw	: 01
+
+email	: budi@mail.com 
+password	: budi
+jabatan	: warga
+rt	: 03
+rw	: 01
+
+email	: untung@mail.com 
+password	: untung
+jabatan	: ketua rt 03
+rt	: 03
+rw	: 01
+
+email	: slamet@mail.com 
+password	: slamet
+jabatan	: ketua rt 02
+rt	: 02
+rw	: 01
+
+email	: muklis@mail.com 
+password	: muklis
+jabatan	: ketua rt 01
+rt	: 01
+rw	: 01
+
+email	: bobi@mail.com 
+password	: bobi
+jabatan	: ketua rw 01
+rt	: 01
+rw	: 01
+
+email	: ali@mail.com 
+password	: ali
+jabatan	: warga
+rt	: 04
+rw	: 01
+
+email	: test@mail.com 
+password	: test
+jabatan	: warga
+rt	: 01
+rw	: 01
+
+email	: @mail.com 
+password	: 
+jabatan	: 
+rt	: 
+rw	: 
+
