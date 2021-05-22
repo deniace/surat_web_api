@@ -4,5 +4,5 @@ surat android bisa dilihat [Surat Android](https://github.com/deniace/surat_andr
 
 
 ## Spesifikasi
-Web api ini dibuat mengguanakan Framework Code igniter 3, Boootstrap 4 css, rest api menggunakan [CI Rest Api](https://github.com/chriskacerguis/codeigniter-restserver), CI JWT menggunakan [CI JWT](https://github.com/ParitoshVaidya/CodeIgniter-JWT-Sample/tree/CI3)
+Web api ini dibuat mengguanakan Framework Code igniter 3, rest api menggunakan [CI Rest Api](https://github.com/chriskacerguis/codeigniter-restserver), CI JWT menggunakan [CI JWT](https://github.com/ParitoshVaidya/CodeIgniter-JWT-Sample/tree/CI3)
 
